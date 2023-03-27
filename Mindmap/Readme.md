@@ -1,0 +1,1 @@
+Software: Minder on Ubuntu
